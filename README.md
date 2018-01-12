@@ -1,6 +1,6 @@
-# CellTrak Proof-of-Concept
+# CT Proof-of-Concept
 
-This project was created as a proof of concept for CellTrak based around electron as the wrapper of a web application.
+This project was created as a proof of concept for CT based around electron as the wrapper of a web application.
 
 **Requirements**
 
